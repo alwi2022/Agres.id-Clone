@@ -31,32 +31,13 @@ My eCommerce App adalah aplikasi web eCommerce berbasis **Next.js** dan **TypeSc
 - ✅ **Detail Produk dengan Meta Tag Optimization**
 - ✅ **Implementasi CSR & SSR sesuai kebutuhan**
 
-## 📂 Struktur Folder
-
-```bash
-📦 my-ecommerce-app
-├── 📂 components       # Reusable UI Components
-├── 📂 pages            # Next.js Pages
-│   ├── 📜 index.tsx    # Homepage
-│   ├── 📜 login.tsx    # Halaman Login
-│   ├── 📜 register.tsx # Halaman Register
-│   ├── 📜 products.tsx # Halaman Produk
-│   ├── 📜 wishlist.tsx # Halaman Wishlist
-│   ├── 📜 api/         # API Routes (Next.js Backend API)
-├── 📂 styles          # Global & Component Styles
-├── 📂 utils           # Helper Functions
-├── 📂 services        # API Calls & Data Fetching
-├── 📜 .env            # Konfigurasi Environment Variables
-├── 📜 README.md       # Dokumentasi Proyek
-└── 📜 next.config.js  # Konfigurasi Next.js
-```
 
 ## 🏗️ Instalasi & Menjalankan Proyek
 
 ### 1️⃣ **Clone Repository**
 
 ```sh
-git clone https://github.com/alwi2022/my-ecommerce-app.git
+git clone https://github.com/alwi2022/Agres.id-Clone.git
 cd my-ecommerce-app
 ```
 
