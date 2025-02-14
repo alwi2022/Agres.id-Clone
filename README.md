@@ -38,7 +38,7 @@ My eCommerce App adalah aplikasi web eCommerce berbasis **Next.js** dan **TypeSc
 
 ```sh
 git clone https://github.com/alwi2022/Agres.id-Clone.git
-cd my-ecommerce-app
+cd Agres.id-Clone
 ```
 
 ### 2️⃣ **Install Dependencies**
