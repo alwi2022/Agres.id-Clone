@@ -19,7 +19,7 @@ My eCommerce App adalah aplikasi web eCommerce berbasis **Next.js** dan **TypeSc
 - **Tailwind CSS** (Styling)
 - **NextAuth** (Authentication)
 - **React Query** (Data Fetching & State Management)
-- **Axios** (HTTP Client)
+
 
 ## 📌 Fitur Utama
 
